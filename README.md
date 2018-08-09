@@ -4,6 +4,7 @@ Random Forest on 30 M records
 Task- Predicting the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and dropoff locations. 
 
 Following are the steps to make good model using Random Forest Regressor in Python:
+
 1> Loading the data set of test and train. As there are 55M records; we will work on 30M records in order to avoid giving load to the python kernel.
 
 2> Exploratory Data Analysis (EDA): This will help us to know the correlation between the independent variables and also with the target variable. We will also watch for the ouliers if any using EDA.
